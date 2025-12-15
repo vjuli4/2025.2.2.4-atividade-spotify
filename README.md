@@ -45,7 +45,7 @@ Os protótipos de referência estão disponíveis no diretório `prototipos/`:
 - [ ] Validar HTML em https://validator.w3.org/
 
 ### Estilização CSS3 Mobile First
-- [ ] Criar arquivo `style.css` na raiz do projeto (ou em pasta `css/`)
+- [ ] Criar arquivo `style.css` (recomendado: criar pasta `css/` e salvar como `css/style.css`)
 - [ ] Configurar reset/normalize CSS:
   - [ ] Remover margens e paddings padrão
   - [ ] Definir box-sizing como border-box
@@ -75,10 +75,10 @@ Os protótipos de referência estão disponíveis no diretório `prototipos/`:
   - [ ] Aplicar layout do protótipo desktop
   - [ ] Ajustar larguras máximas
   - [ ] Otimizar espaçamentos
-- [ ] Testar em diferentes tamanhos de tela
+- [ ] Testar em diferentes tamanhos de tela (sugestão: 320px, 768px, 1024px, 1440px) usando DevTools do navegador
 
 ### Finalização
-- [ ] Testar a página em navegadores diferentes (Chrome, Firefox, Safari)
+- [ ] Testar a página em navegadores diferentes (Chrome, Firefox, Safari, Edge)
 - [ ] Verificar acessibilidade básica:
   - [ ] Alt text em imagens
   - [ ] Contraste de cores adequado
