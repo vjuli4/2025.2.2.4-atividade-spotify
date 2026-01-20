@@ -166,6 +166,12 @@ body {
     display: none;
 }
 
+.topbar img {
+    width: 200px;
+    height: auto;
+    display: block;
+}
+
 .recent {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -203,8 +209,6 @@ section h2 {
     display: flex;
     gap: 16px;
 }
-
-
 
 .card,
 .playlist {
